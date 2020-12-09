@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T08:53:11.894Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.55" version="13.10.1" etag="4g1h7Z0_pud97Xx__eMr" type="github"><diagram id="gIw4iVrSMtdsLjawulns">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-09T08:58:42.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.55" etag="OukmwMw7-jK2ga9J237R" version="13.10.1" type="github">
+  <diagram id="gIw4iVrSMtdsLjawulns" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S--PL2CYgMtddFLn8mro-1" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillOpacity=100;fontSize=16;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S--PL2CYgMtddFLn8mro-2" value="病人" style="whiteSpace=wrap;html=1;align=center;fillOpacity=100;fontSize=16;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S--PL2CYgMtddFLn8mro-3" value="医院" style="whiteSpace=wrap;html=1;align=center;fillOpacity=100;fontSize=16;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="370" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S--PL2CYgMtddFLn8mro-4" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillOpacity=100;fontSize=16;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S--PL2CYgMtddFLn8mro-5" value="医生" style="whiteSpace=wrap;html=1;align=center;fillOpacity=100;fontSize=16;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="690" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S--PL2CYgMtddFLn8mro-6" value="病床" style="whiteSpace=wrap;html=1;align=center;fillOpacity=100;fontSize=16;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S--PL2CYgMtddFLn8mro-7" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillOpacity=100;fontSize=16;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S--PL2CYgMtddFLn8mro-9" value="护士" style="whiteSpace=wrap;html=1;align=center;fillOpacity=100;fontSize=16;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="364" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
